@@ -8,5 +8,3 @@ prueba científica, debe ser un conocimiento objetivo, verificable y reproducibl
 Los criterios para juzgar una prueba pueden variar según el área de estudio, 
 pero su fuerza se basa en general en los resultados de análisis estadístico 
 y controles científicos.
-
-Cambio bueno (pero mejorado en hotfix1)
