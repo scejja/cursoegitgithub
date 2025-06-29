@@ -16,3 +16,7 @@ Camnio rama 1
 Ver rama si fastforward
 
 Nuevo cambio
+
+rama larga, cambio 1
+
+rama larga, cambio 2
