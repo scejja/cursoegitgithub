@@ -12,3 +12,5 @@ prueba 3
 Segundos cambios para característica 1
 
 Camnio rama 1
+
+Ver rama si fastforward
