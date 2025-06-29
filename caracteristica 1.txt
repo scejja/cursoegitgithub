@@ -6,5 +6,4 @@ master, cambio a
 
 master, cambio b
 
----E
-Cambio en F
+-E
