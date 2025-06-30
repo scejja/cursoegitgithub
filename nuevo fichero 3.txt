@@ -5,3 +5,5 @@ Cambio para el repo remoto
 otro cambio sin push
 
 Cambio para varios repos remotos
+
+Cambio en repo clonado de GitHub desde cero
