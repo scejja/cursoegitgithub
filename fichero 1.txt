@@ -1,4 +1,7 @@
-Cambio en la misma linea en repo local
+
+TEXTO CON CONFLICTO RESUELTO
+	Cambio en la misma linea en repo local
+	Cambio en la misma linea en github
 
 Cambio arriba
 
