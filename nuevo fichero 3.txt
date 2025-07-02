@@ -9,3 +9,5 @@ Cambio para varios repos remotos
 Cambio en repo clonado de GitHub desde cero
 
 Cambio de un compañero
+
+Cambio a eliminar
